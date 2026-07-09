@@ -159,6 +159,14 @@ The CLI communicates with the Flask API over HTTP.
 
 ---
 
+# Testing
+11 tests have been added. To carry out the test go to the project route.
+
+Run
+
+```bash
+python3 -m pytest
+```
 # REST API Endpoints
 
 ## Health Check
